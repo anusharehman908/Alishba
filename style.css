@@ -455,7 +455,7 @@ p {
     position: absolute;
     top: 0;
     right: 8px;
-    width: 500px;
+    width: 900px;
     height: 900px;
     background-image: url('./gift.gif'); 
     border-radius: 60%;
@@ -469,7 +469,7 @@ p {
     max-width: 300px;
     position: absolute;
     left: 10%;
-    top: 60%;
+    top: 90%;
     transform: translateY(-50%);
 }
 
