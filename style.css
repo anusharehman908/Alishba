@@ -462,4 +462,15 @@ p {
   
 }
 
+    p {
+    border-radius: 10px;
+    height: auto;
+    font-size: 10px;
+    max-width: 300px;
+    position: absolute;
+    left: 10%;
+    top: 60%;
+    transform: translateY(-50%);
+}
+
 }
