@@ -469,7 +469,7 @@ p {
     max-width: 300px;
     position: absolute;
     left: 10%;
-    top: 90%;
+    top: 500px;
     transform: translateY(-50%);
 }
 
